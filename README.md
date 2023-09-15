@@ -35,14 +35,12 @@ To install an operating system using virtual box.
 
 7. Next, you need to allocate memory and the CPU to help run the virtual machine.It is recommended to allocate half of what your system offers. Suppose you have 16 Gigs of RAM, you can allocate 8 to the virtual machine.
 
+![os6](https://github.com/Skanthasishanth/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118298456/56c829f3-bbd4-493e-a75e-ac4f9bcbbd31)
     
-![os05](https://github.com/Skanthasishanth/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118298456/98298ddd-b09f-4561-9ded-e4f2e2bcc20d)
-
 
 8. Now the virtual disk. This serves as the hard disk of the virtual Linux system. It is where the VM will store its files.Go with the defaults. If you have too much of less virtual hard disk space, the Linux distro might not install.
 
-    
-![os6](https://github.com/Skanthasishanth/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118298456/56c829f3-bbd4-493e-a75e-ac4f9bcbbd31)
+![os05](https://github.com/Skanthasishanth/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118298456/98298ddd-b09f-4561-9ded-e4f2e2bcc20d)
 
 
 9. You will be now shown a summary of all your selections, and then it is time to launch and initiate installing the Linux OS as a virtual machine.
