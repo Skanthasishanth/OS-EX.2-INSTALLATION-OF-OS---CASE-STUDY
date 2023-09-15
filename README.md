@@ -10,8 +10,6 @@ To install an operating system using virtual box.
 
 2. Download the linux ISO from the linux distribution from its official site.
 
-   
-
 ![os1](https://github.com/Skanthasishanth/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118298456/50d694d1-a500-42f7-b912-500d406cdcc3)
 
 
